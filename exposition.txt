@@ -1,0 +1,15 @@
+(Hit Enter to continue)
+
+[Katherine] The villagers of Rensa'ri have
+requested the aid of the Adventurer's
+Guild to eliminate a goblin camp just
+south of the village.
+
+[Katherine] They are paying a decent 
+amount of gold for it. Rest assured, 
+you'll be fairly compensated.
+
+[Katherine] You'll take it? Great!
+I wish you the best of luck.
+
+[Katherine] Ad astra abyssosque!
